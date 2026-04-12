@@ -1,2 +1,2 @@
-# Prince-Albert
+# Prince Albert
 The repo for my geo project
